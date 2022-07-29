@@ -1,0 +1,10 @@
+# Node Modules 
+**/node_modules
+
+# Ignore ENVs
+**/*.env
+
+# Linters
+**/.prettierrc
+**/.eslintrc.json
+**/.eslintignore
