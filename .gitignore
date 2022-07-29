@@ -8,3 +8,7 @@
 **/.prettierrc
 **/.eslintrc.json
 **/.eslintignore
+
+# Build Folders 
+/dist
+/build
